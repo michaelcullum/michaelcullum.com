@@ -1,6 +1,6 @@
 {
-    "name": "symfony/framework-standard-edition",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "name": "unknownbliss/michaelcullumcom",
+    "description": "My site",
     "autoload": {
         "psr-0": { "": "src/" }
     },
