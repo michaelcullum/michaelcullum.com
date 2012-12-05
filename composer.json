@@ -20,7 +20,8 @@
         "jms/di-extra-bundle": "1.1.*",
         "kriswallsmith/assetic": "1.1.*@dev",
         "doctrine/doctrine-migrations-bundle": "dev-master@dev",
-        "doctrine/migrations": "dev-master@dev"
+        "doctrine/migrations": "dev-master@dev",
+        "unknownbliss/zurb-foundation-bundle": "3.2.*"
     },
     "scripts": {
         "post-install-cmd": [

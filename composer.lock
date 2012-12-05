@@ -1,5 +1,5 @@
 {
-    "hash": "4dff85931b81d2f0c26d0c747c67e9e9",
+    "hash": "03628d836f2b3448eb6dd655d24f826f",
     "packages": [
         {
             "name": "doctrine/common",
@@ -1309,6 +1309,57 @@
             "homepage": "http://twig.sensiolabs.org",
             "keywords": [
                 "templating"
+            ]
+        },
+        {
+            "name": "unknownbliss/zurb-foundation-bundle",
+            "version": "3.2.3.1",
+            "target-dir": "Unknownbliss/ZurbfoundationBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unknownbliss/ZurbFoundationBundle",
+                "reference": "3.2.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/unknownbliss/ZurbFoundationBundle/archive/3.2.3.1.zip",
+                "reference": "3.2.3.1",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/symfony": "2.1.*"
+            },
+            "time": "2012-12-05 19:04:21",
+            "type": "symfony-bundle",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.2.*-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Unknownbliss\\ZurbfoundationBundle": ""
+                }
+            },
+            "notification-url": "http://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "MichaelC",
+                    "email": "m@michaelcullum.com",
+                    "homepage": "https://michaelcullum.com/"
+                }
+            ],
+            "description": "A quick symfony bundle including the zurb foundation to allow easy updating of the foundation across symfony sites.",
+            "homepage": "http://michaelcullum.com",
+            "keywords": [
+                "symfony",
+                "bundle",
+                "zurb",
+                "foundation"
             ]
         }
     ],
