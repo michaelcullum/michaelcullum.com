@@ -1,0 +1,3 @@
+unknownbliss_michael_cullum_com_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: UnknownblissMichaelCullumComBundle:Default:index }
